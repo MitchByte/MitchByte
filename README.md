@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michèle.
-- 👀 I’m interested in React,Express and Javascript.
+- 👀 I’m interested in React, Express and Javascript.
 - 🌱 I’m currently learning more about React.
 - 💞️ I’m looking forward to find an inspiring work atmosphere.
 - 📫 How to reach me fischer-michele@gmx.de
